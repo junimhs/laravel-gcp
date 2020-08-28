@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dd331cf3-4023-46d9-9d7b-842741b39476" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -138,11 +156,40 @@
       <option name="presentableId" value="Default" />
       <updated>1598575237573</updated>
       <workItem from="1598575238628" duration="2133000" />
-      <workItem from="1598577375089" duration="678000" />
+      <workItem from="1598577375089" duration="987000" />
     </task>
+    <task id="LOCAL-00001" summary="Executando pipeline completa">
+      <created>1598578069980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598578069980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Executando pipeline completa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Executando pipeline completa" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="292" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598578073559">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="555" y="292" width="800" height="535" key="Vcs.Push.Dialog.v2/0.34.1920.1046/1920.0.2560.1080@0.34.1920.1046" timestamp="1598578073559" />
   </component>
 </project>
