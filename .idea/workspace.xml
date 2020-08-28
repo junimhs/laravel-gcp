@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd331cf3-4023-46d9-9d7b-842741b39476" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudbuild.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudbuild.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="dd331cf3-4023-46d9-9d7b-842741b39476" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +154,7 @@
       <updated>1598575237573</updated>
       <workItem from="1598575238628" duration="2133000" />
       <workItem from="1598577375089" duration="1356000" />
-      <workItem from="1598636513268" duration="691000" />
+      <workItem from="1598636513268" duration="1185000" />
     </task>
     <task id="LOCAL-00001" summary="Executando pipeline completa">
       <created>1598578069980</created>
@@ -180,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598578577058</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Correcao na nomeclatura do phpunit">
+      <created>1598637655724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598637655724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,12 +206,13 @@
     <MESSAGE value="Executando pipeline completa" />
     <MESSAGE value="Correcao no cloudbuild.yaml" />
     <MESSAGE value="Correcao no .env.example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correcao no .env.example" />
+    <MESSAGE value="Correcao na nomeclatura do phpunit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correcao na nomeclatura do phpunit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="292" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598578582186">
+    <state x="555" y="292" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598637660966">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="555" y="292" width="800" height="535" key="Vcs.Push.Dialog.v2/0.34.1920.1046/1920.0.2560.1080@0.34.1920.1046" timestamp="1598578582186" />
+    <state x="555" y="292" width="800" height="535" key="Vcs.Push.Dialog.v2/0.34.1920.1046/1920.0.2560.1080@0.34.1920.1046" timestamp="1598637660966" />
   </component>
 </project>
