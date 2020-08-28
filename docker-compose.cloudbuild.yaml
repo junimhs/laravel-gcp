@@ -14,9 +14,6 @@ services:
 
   nginx:
     build: .docker/nginx
-    environment:
-      - NGINX_HOST=app
-      - NGINX_PORT=9000
     container_name: nginx
     tty: true
     restart: always
@@ -53,8 +50,6 @@ services:
     networks:
       - app-network
 
-steps:
-  -
 networks:
   app-network:
     driver: bridge
